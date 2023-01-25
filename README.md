@@ -1,6 +1,6 @@
 - 👋 Привет, я Петр.
-- 👀 Пишу back проекты на Java 8++
-- 🌱 Увлекаюсь разработкой мобильных приложений на Flutter 
+- 👀 Кодю на Java 7++
+- 🌱 немного на Flutter 
 
 <!---
 gpm80/gpm80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
